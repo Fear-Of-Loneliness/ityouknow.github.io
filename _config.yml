@@ -141,32 +141,32 @@ labels:
 
   -
     href: /fastdfs.html
-    label: FastDFS
+    label: A
     target: _blank
 
   -
     href: /mongodb.html
-    label: MongoDB
+    label: B
     target: _blank
 
   -
     href: /docker.html
-    label: Docker
+    label: C
     target: _blank
 
   -
     href: /open-source.html
-    label: Code  
+    label: D
     target: _blank
 
   -
     href: /it.html
-    label: It 
+    label: E
     target: _blank
 
   -
     href: /python.html
-    label: Python  
+    label: F
     target: _blank
 
 
