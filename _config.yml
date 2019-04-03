@@ -174,17 +174,17 @@ labels:
 classes:
 
   -
-    href: /life.html
+    href: zyy.github.io/pages/life.html
     name: 我的故事
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /arch.html
+    href: zyy.github.io/pages/arch.html
     name: 架构师之路
     describe: 一个架构师的自我修养
 
   -
-    href: /java.html
+    href: zyy.github.io/pages/java.html
     name: Java 系列文章
     describe: Java 之根基，Java 程序员必学
 
@@ -220,17 +220,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: Fear-Of-Loneliness
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: Fear-Of-Loneliness
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: Fear-Of-Loneliness
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
